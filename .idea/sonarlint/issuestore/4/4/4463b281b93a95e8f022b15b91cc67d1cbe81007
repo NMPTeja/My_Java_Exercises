@@ -1,11 +1,0 @@
-
- squid:ForLoopCounterChangedCheck7"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ò Ôøşÿÿÿÿ8±‚˜ö.
-ysquid:S2159'"VRemove this call to "equals"; comparisons between unrelated types always return false.(ßšøÁüÿÿÿÿ8Õàö.
-]squid:S1854*":Remove this useless assignment to local variable "result".(ç²¯îıÿÿÿÿ8’äö.
-‹ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8‹Îáõ.
-:squid:S1643"Use a StringBuilder instead.(îÎÇµ8¨Ğåõ.
-:squid:S1643("Use a StringBuilder instead.(îÎÇµ8˜‚œö.
-^squid:CallToDeprecatedMethod1"/Remove this use of "Integer"; it is deprecated.(´¾ô8Ôş¡ö.
-‹ squid:ForLoopCounterChangedCheck5"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğş¬½8±‚˜ö.
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(®°¹ëÿÿÿÿÿ8ƒ¨Ãó.
