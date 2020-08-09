@@ -1,0 +1,13 @@
+
+`squid:S1854,"=Remove this useless assignment to local variable "charAtlow".(Ωγκλώÿÿÿÿ8Έ‘Φσ.
+asquid:S1854,">Remove this useless assignment to local variable "charAthigh".(Ωγκλώÿÿÿÿ8Έ‘Φσ.
+Esquid:S1659""Declare "high" on a separate line.(νςωÿÿÿÿ8«ªΉσ.
+`squid:S1854"=Remove this useless assignment to local variable "charAtlow".(Ωγκλώÿÿÿÿ8 ²Τσ.
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(εκε8«ªΉσ.
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(§σ£ώϊÿÿÿÿ8«ªΉσ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(²―¶ÿÿÿÿÿ8«ªΉσ.
+asquid:S1854">Remove this useless assignment to local variable "charAthigh".(Ωγκλώÿÿÿÿ8―–Υσ.
+Fsquid:S1659"(Declare "charAthigh" on a separate line.(ΏΜιÒ8μφΖσ.

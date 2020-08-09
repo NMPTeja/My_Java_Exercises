@@ -1,0 +1,8 @@
+
+Ysquid:S1751"6Remove this "return" statement or make it conditional.(Ö§”Óþÿÿÿÿ8„•ºóŠ.
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(À›Ù¬8Ë±¼òŠ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û¯¶¨úÿÿÿÿ8Õé¾òŠ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø©ª¨ÿÿÿÿÿ8¢ºãòŠ.
+Bsquid:S1659"Declare "j" on a separate line.(¨Ýþûþÿÿÿÿ8´ˆÊòŠ.

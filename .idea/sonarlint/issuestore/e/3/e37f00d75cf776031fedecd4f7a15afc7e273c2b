@@ -1,0 +1,8 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·ðÕ†þÿÿÿÿ8ØÂ™ò.
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ð©˜ò.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÂñúÐ8èäýî.
+psquid:UselessImportCheck"@Remove this unused import 'jdk.nashorn.internal.objects.Global'.(¯Â¸€ÿÿÿÿÿ8‡«óï.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë’8Óªåî.
+`squid:UselessImportCheck"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8¹óüï.
